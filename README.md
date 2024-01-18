@@ -24,7 +24,8 @@
 
 📫 Let's Connect:
 - 📧 Email: amirkonjkav@gmail.com
-- 🔗 LinkedIn: [https://www.linkedin.com/in/amir-konjkav-7761b350/]
+- 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/amir-konjkav-7761b350/)
+- 🌐 Kaggle: [Check out my Kaggle profile](https://www.kaggle.com/amirkonjkav)
 
 
 👨‍💻 Always eager to learn and collaborate on exciting projects. Let's code something amazing together! 💻✨
