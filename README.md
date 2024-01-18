@@ -20,7 +20,7 @@
 - 🤖 Artificial Intelligence
 - 🌐 Web Development
 - 🚀 Open Source Contribution
-- ⚙️ Linux aficionado
+- ⚙️ Linux
 
 📫 Let's Connect:
 - 📧 Email: amirkonjkav@gmail.com
