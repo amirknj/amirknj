@@ -11,7 +11,7 @@
 - 🐍 Python | Django | Fastapi
 - 🌐 HTML | CSS | JavaScript
 - 📊 Machine learning | Pandas | NumPy
-- 🚀 FastAPI | RESTful APIs
+- 🚀 RESTful APIs
 - 🐘 PostgreSQL | MongoDB
 - 🧪 Testing: PyTest
 - 🛠 DevOps: Docker | Git | CI/CD
