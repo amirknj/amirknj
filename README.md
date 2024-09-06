@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hello, fellow developers! I'm amir konjkav, a passionate Pythonista 🐍 and software engineer 🚀.
+👋 Hello, fellow developers! I'm amir konjkav, a passionate Developer 🚀.
 
 🌟 About Me:
 - 💻 AI Researcher and Backend Developer with 3 years of experience
