@@ -2,25 +2,25 @@
 👋 Hello, fellow developers! I'm amir konjkav, a passionate Pythonista 🐍 and software engineer 🚀.
 
 🌟 About Me:
-- 💻 Python Developer with 3 years of experience
+- 💻 AI Researcher and Backend Developer with 3 years of experience
 - 🎓 I have master degree in computer
-- 🚀 Love building scalable and efficient django applications
-- 🤖 AI and Machine Learning enthusiast
+- 🚀 Love building scalable and efficient applications with python and Laravel and these days with Golang
+- 🤖 Machine Learning enthusiast
 
 🔧 Tech Stack:
-- 🐍 Python | Django | Fastapi
+- 🐍 GO | Laravel | Python
 - 🌐 HTML | CSS | JavaScript
 - 📊 Machine learning | Pandas | NumPy
-- 🚀 RESTful APIs
-- 🐘 PostgreSQL | MongoDB
-- 🧪 Testing: PyTest
-- 🛠 DevOps: Docker | Git | CI/CD
+- 🚀 RESTful APIs with Fiber 
+- 🐘 PostgreSQL | MySQL
+- 🧪 Testing: ?
+- 🛠 DevOps: Docker | Git 
 
 🌈 Interests:
 - 🤖 Artificial Intelligence
 - 🌐 Web Development
-- 🚀 Open Source Contribution
-- ⚙️ Linux
+- 🚀 Golang
+- ⚙️ Algorithm
 
 📫 Let's Connect:
 - 📧 Email: amirkonjkav@gmail.com
