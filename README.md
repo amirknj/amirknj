@@ -4,7 +4,7 @@
 🌟 About Me:
 - 💻 AI Researcher and Backend Developer with 3 years of experience
 - 🎓 I have master degree in computer
-- 🚀 Love building scalable and efficient applications with python and Laravel and these days with Golang
+- 🚀 Love building scalable and efficient applications with JavaScript and Express
 - 🤖 Machine Learning enthusiast
 
 🔧 Tech Stack:
