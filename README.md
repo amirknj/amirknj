@@ -2,25 +2,21 @@
 👋 Hello, fellow developers! I'm amir konjkav, a passionate Developer 🚀.
 
 🌟 About Me:
-- 💻 AI Researcher and Backend Developer with 3 years of experience
+- 💻 AI Researcher and Python Developer with 3 years of experience
 - 🎓 I have master degree in computer
-- 🚀 Love building scalable and efficient applications with JavaScript and Express
-- 🤖 Machine Learning enthusiast
+- 🚀 Love building scalable and efficient applications with Python
+- 🤖 Machine Learning and Deep Learning enthusiast
 
 🔧 Tech Stack:
-- 🐍 JavaScript| Node | Express | Python | Go
-- 🌐 HTML | CSS | JavaScript
-- 📊 Machine learning | Pandas | NumPy
-- 🚀 RESTful APIs with Express 
-- 🐘 MongoDB | MySQL
-- 🧪 Testing: ?
+- 🐍 Python| Fastapi | Numpy | Pandas | Tensorflow
+- 🐘 PstgresSQL
 - 🛠 DevOps: Docker | Git 
 
 🌈 Interests:
 - 🤖 Artificial Intelligence
-- 🌐 Web Development
-- 🚀 JavaScript && Golang
-- ❤️ Love Algorithm 
+- 🌐 API
+- 🚀 Solving Algorithm
+- ❤️ Love Math
 
 📫 Let's Connect:
 - 📧 Email: amirkonjkav@gmail.com
